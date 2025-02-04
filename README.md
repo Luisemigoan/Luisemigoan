@@ -1,3 +1,7 @@
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Luis%20González&textBg=false"/>
+</p>
+
 # 👋 Hello, I'm Luis González!  
 
 ## 👨‍💻 About Me  
